@@ -1,0 +1,37 @@
+stack variable | addr = 0x20041FD4 | value = 8888
+stack variable | addr = 0x20041FD4 | value = 22B8
+stack variable | addr = 0x20041FD4 | value = 0x22B8
+global variable | addr = 0x200023A8 | value = 653
+heap variable | addr = 0x200050E8 | value = 5555
+constant variable | addr = 0x10007A44 | value = 42
+constant string | addr = 0x100076A8 | value = 0x702D796D, [my-pico-device]
+reg chip id | addr = 0x40000000 | value = 0x10002927
+var by addr | addr = 0x20002278 | value = 1847195700
+main function | addr = 0x100002A9 | value = 0x5746DEB5
+Hello World!
+device name: 'my-pico-device', firmware version: v0.0.1
+system timestamp: 654325234 us
+stack variable | addr = 0x20041FD4 | value = 8888
+stack variable | addr = 0x20041FD4 | value = 22B8
+stack variable | addr = 0x20041FD4 | value = 0x22B8
+global variable | addr = 0x200023A8 | value = 654
+heap variable | addr = 0x200050F8 | value = 5555
+constant variable | addr = 0x10007A44 | value = 42
+constant string | addr = 0x100076A8 | value = 0x702D796D, [my-pico-device]
+reg chip id | addr = 0x40000000 | value = 0x10002927
+var by addr | addr = 0x20002278 | value = 1847195700
+main function | addr = 0x100002A9 | value = 0x5746DEB5
+Hello World!
+device name: 'my-pico-device', firmware version: v0.0.1
+system timestamp: 655326703 us
+stack variable | addr = 0x20041FD4 | value = 8888
+stack variable | addr = 0x20041FD4 | value = 22B8
+stack variable | addr = 0x20041FD4 | value = 0x22B8
+global variable | addr = 0x200023A8 | value = 655
+heap variable | addr = 0x20005108 | value = 5555
+constant variable | addr = 0x10007A44 | value = 42
+constant string | addr = 0x100076A8 | value = 0x702D796D, [my-pico-device]
+reg chip id | addr = 0x40000000 | value = 0x10002927
+var by addr | addr = 0x20002278 | value = 1847195700
+main function | addr = 0x100002A9 | value = 0x5746DEB5
+
